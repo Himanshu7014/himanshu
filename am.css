@@ -1,0 +1,174 @@
+*main{
+    margin: 0;
+    padding: 0;
+    font-family: Amazon Ember;
+}
+
+.nav{
+    height: 50px;
+    width: 98%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    background-color: #193d3d;
+
+}
+.ek{
+    height: 45px;
+    width: 113px;
+    background-color: pink;
+    border-radius: 0.5rem;
+    margin-left: 0%;
+    
+    
+    
+    
+}
+.do{
+    height: 45px;
+    width: 90px;
+    background-color:#193d3d;
+    border-radius: 0.5rem;
+    color: aliceblue;
+    text-align: center;
+    font-size: small;
+
+}
+
+.tin{
+    height: 45px;
+    width: 450px;
+    background-color:green;
+    border-radius: 0.5rem;
+}
+.four{
+    height: 45px;
+    width: 70px;
+    background-color:yellow;
+    border-radius: 0.5rem;
+   
+ 
+}
+.five{
+    height: 45px;
+    width: 135px;
+    background-color: blue;
+    border-radius: 0.5rem;
+    background-color: #193d3d;
+
+}
+.six{
+    height: 45px;
+    width: 80px;
+    background-color: brown;
+    border-radius: 0.5rem;
+    background-color: #193d3d;
+
+}
+.sat{
+    height: 45px;
+    width: 60px;
+    background-color: yellowgreen;
+    border-radius: 0.5rem;
+    background-color: #193d3d;
+}
+:hover.ek{
+    border: solid black 2px;
+}:hover.do{
+    border: solid black 2px;
+}:hover.tin{
+    border: solid black 2px;
+}:hover.four{
+    border: solid black 2px;
+}:hover.five{
+    border: solid black 2px;
+}:hover.six{
+    border: solid black 2px;
+}
+:hover.sat{
+    border: solid black 2px;
+}
+.one{
+    height: 44px;
+    width: 112px;
+    overflow: hidden;
+    margin: auto;
+    padding: auto;
+    border-radius: 0.5rem;
+    
+}
+.two{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 0.5rem;
+}
+.hello{
+    font-size: smaller;
+    text-align:center;
+    margin:auto;
+    background-color: #193d3d;
+    color: beige;
+    font-weight: 800;
+    justify-content:center;
+
+}
+.return{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: small;
+
+}
+
+.op{
+    height: auto;
+    width: 50px;
+    background-color: #193d3d;
+
+}
+
+.sec{
+    height: 50px;
+    width: 98%;
+    background-color: #1e5757;
+    margin: auto;
+    display: flex;
+    color: white;
+   text-align: center;
+   border-radius: 0.5rem;
+}
+
+.op{
+    background-color: #1e5757;
+    width: 40px;
+    border-radius: 0.5rem;
+}
+.dusra{
+    background-color: #1e5757;
+    width: 70px;
+    border-radius: 0.5rem;
+}
+.tisra{
+    background-color: #1e5757;
+    width: 70px;
+    border-radius: 0.5rem;
+}
+.chota{
+    background-color: #1e5757;
+    width: 70px;
+    border-radius: 0.5rem;
+}
+:hover.op{
+    border: solid black 2px;
+
+}:hover.dusra{
+    border: solid black 2px;
+
+}:hover.tisra{
+    border: solid black 2px;
+
+}:hover.chota{
+    border: solid black 2px;
+
+}
